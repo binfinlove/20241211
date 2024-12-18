@@ -1,0 +1,14 @@
+type     | question                                          | option1        | option2        | option3        | option4        | correctAnswer
+---------|--------------------------------------------------|----------------|----------------|----------------|----------------|---------------
+multiple | 下列何者不是程式設計的基本控制結構？              | 循序結構       | 選擇結構       | 重複結構       | 矩陣結構       | 4
+multiple | 在 JavaScript 中，哪個方法用於將字串轉換為整數？  | parseInt()     | toString()     | toFixed()      | charAt()       | 1
+multiple | HTML5 中，哪個標籤用於播放影片？                  | <video>        | <movie>        | <media>        | <play>         | 1
+multiple | CSS 中，哪個屬性用於改變文字顏色？                | text-color     | color          | font-color     | text-style     | 2
+multiple | 1 GB 等於多少 MB？                                | 1000           | 1024           | 512            | 2048           | 2
+fill     | 請寫出 JavaScript 中宣告變數的關鍵字（三個字母）  |                |                |                |                | let
+fill     | 請寫出 HTML 的完整英文名稱                        |                |                |                |                | HyperText Markup Language
+fill     | 請寫出 CSS 中表示透明度的屬性名稱                 |                |                |                |                | opacity
+multiple | 在網頁設計中，RGB(255,0,0) 代表什麼顏色？         | 紅色           | 綠色           | 藍色           | 黑色           | 1
+multiple | 哪個 HTML 標籤用於創建最大的標題？                | <h6>           | <h2>           | <h1>           | <header>       | 3
+fill     | 請寫出 JavaScript 中的邏輯運算符 AND（兩個符號）  |                |                |                |                | &&
+multiple | 網頁安全性中，SQL Injection 是什麼類型的攻擊？    | 跨站腳本攻擊   | 資料庫注入攻擊 | 阻斷服務攻擊   | 木馬程式       | 2 
